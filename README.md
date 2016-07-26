@@ -51,7 +51,7 @@ do {
 ## Swift Package Manager
 
 ```swift
-.Package(url: "https://github.com/czechboy0/Jay-C7.git", majorVersion: 0, minor: 14)
+.Package(url: "https://github.com/czechboy0/Jay-C7.git", majorVersion: 0, minor: 16)
 ```
 
 :gift_heart: Contributing
